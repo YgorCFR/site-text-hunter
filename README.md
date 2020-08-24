@@ -5,7 +5,7 @@ To use it, follow the steps below:
  - Install the current version of python in your machine.
  - Open your terminal and check if python is installed by typing "py". If the command fails, remember to add python to the environment variables. Then, check again.
  - After check if "py" command is working, open another terminal window and install the following libraries: scrapy, pandas and bs4, using the following command:
-   "py -m pip install pandas bs4 Scrapy logging" (recommended for Windows OS) or "pip install pandas bs4 Scrapy logging" (recommended for Linux and MacOS environments)
+   "py -m pip install pandas bs4 Scrapy logging lxml" (recommended for Windows OS) or "pip install pandas bs4 Scrapy logging lxml" (recommended for Linux and MacOS environments)
  - With the installed libraries, clone the repository into your desired path.
  - Open the code.
  - First step, you need to choose what URL's you would like to scrap, add them to:
